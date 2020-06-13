@@ -13,3 +13,5 @@ In order to compare the general public's reaction to a movie vs. what the Academ
 - How do the gross of the Best Picture winner compare to the highest grossing movie of the same year?
 ### Main Findings
 There is no correlation between IMDB scores of best picture winners vs. the year the movie was nominated best picture. Nor is there a trend of the highest IMDB score between all the nominees in a given year throughout the years. However, 47.7% of the best picture winners had the highest IMDB score in comparison to its nominees. And only 11.4% of best picture winners were the highest grossing movie of its given year. The percentages show why people may feel like the Oscars are becoming more political (the existence of higher rated/grossing movies), but the claim that they are increasingly becoming more political is false (because of the lack of a trend).
+
+The in-depth data analysis can be found at [final-report-hahnbee-lee.ipynb](https://github.com/hahnbeelee/oscars-best-picture-data-analysis/blob/master/final-report-hahnbee-lee.ipynb).
